@@ -205,12 +205,34 @@
          "tilewidth":16
         }, 
         {
+         "columns":16,
          "firstgid":392,
-         "source":"Interiors_free_16x16.tsx"
+         "image":"Interiors_free_16x16.png",
+         "imageheight":1424,
+         "imagewidth":256,
+         "margin":0,
+         "name":"Interiors_free_16x16",
+         "spacing":0,
+         "tilecount":1424,
+         "tileheight":16,
+         "tilewidth":16
         }, 
         {
          "columns":17,
          "firstgid":1816,
+         "image":"Room_Builder_free_16x16.png",
+         "imageheight":368,
+         "imagewidth":272,
+         "margin":0,
+         "name":"Room_Builder_free_16x16",
+         "spacing":0,
+         "tilecount":391,
+         "tileheight":16,
+         "tilewidth":16
+        }, 
+        {
+         "columns":17,
+         "firstgid":2207,
          "image":"Room_Builder_free_16x16.png",
          "imageheight":368,
          "imagewidth":272,
