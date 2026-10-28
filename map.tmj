@@ -158,12 +158,34 @@
  "tileheight":16,
  "tilesets":[
         {
+         "columns":17,
          "firstgid":1,
-         "source":"Room_Builder_free_16x16.tsx"
+         "image":"Room_Builder_free_16x16.png",
+         "imageheight":368,
+         "imagewidth":272,
+         "margin":0,
+         "name":"Room_Builder_free_16x16",
+         "spacing":0,
+         "tilecount":391,
+         "tileheight":16,
+         "tilewidth":16
         }, 
         {
          "firstgid":392,
          "source":"Interiors_free_16x16.tsx"
+        }, 
+        {
+         "columns":17,
+         "firstgid":1816,
+         "image":"Room_Builder_free_16x16.png",
+         "imageheight":368,
+         "imagewidth":272,
+         "margin":0,
+         "name":"Room_Builder_free_16x16",
+         "spacing":0,
+         "tilecount":391,
+         "tileheight":16,
+         "tilewidth":16
         }],
  "tilewidth":16,
  "type":"map",
